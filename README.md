@@ -1,2 +1,1 @@
-# SQL
-SQL end to end projects
+#Retail Sales Analysis SQL Project
